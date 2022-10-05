@@ -14,3 +14,13 @@
 > A rede de escritório será a rede que receberá menor atenção, pois é a rede que possui menor risco de falhas, pois é a rede que possui os dispositivos que realizam tarefas menos importantes da empresa.
 
 > Outro ponto importante, é que a rede de produção possui um servidor que realiza a função de DHCP, assim como também possui um servidor que realiza a função de DNS. Sendo assim, a rede de produção possui um servidor que realiza a função de DHCP e DNS, enquanto a rede de escritório não possui nenhum servidor que realiza a função de DHCP e DNS. Sua configuração é feita manualmente.
+
+
+# Pontos Negativos da Rede
+
+>Na rede não existe nenhum padrão na identificação dos equipamentos, a manutenção e a escalabilidade acaba sendo mais dificil por conta disso. Existe vários tipos de dispositivos diferentes na mesma rede, não existe nenhum tipo de isolamento para segurança. Os switches com as mesmas especificações pode acarretar uma limitação de tráfego e sobrecarga na rede.
+
+
+# Pontos Positivos da Rede
+
+>Contém camadas de núcleo, distribuição e acesso. Os dispositivos são atualizados, não tem nenhum dispotivos ultrapassado com o Hub. Na rede tem um firewall que previne falhas e ataques.
