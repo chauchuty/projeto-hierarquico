@@ -23,3 +23,12 @@
 # Pontos Positivos da Rede
 
 > Contém camadas de núcleo, distribuição e acesso. Todos os dispositivos são atualizados, não existe nenhum dispositivo ultrapassado como o Hub. Na rede tem um firewall que previne falhas e ataques.
+
+
+#### Sugestão de Rede
+
+![Sugestao](./images/image.png)
+
+#### Nomenclatura:
+
+> Tipo do Equipamento - Local - Código do Local - Unidade
